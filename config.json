@@ -1,0 +1,14 @@
+{
+    "author": "Syams Maulana",
+    "publisher": "Syams Studio",
+    "doc_title": "Dokumentasi Alur Kerja Otomatisasi Perangkat",
+    "media_folder": "media_vault",
+    "backup_folder": "backup",
+    "media_extensions": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".webp",
+        ".mp4"
+    ]
+}
